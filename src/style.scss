@@ -1,0 +1,31 @@
+$text_color_dark: #4A4A4A;
+
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+body{
+    background-color: #E5E5E5;
+
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+    font-size: 12px;
+    color: $text_color_dark;
+}
+
+.wrapper{
+    max-width: 1024px;
+    margin: 0 auto;
+    padding-top: 50px;
+
+    header{
+        display: flex;
+        justify-content: center;
+        margin-bottom: 50px;
+        
+    }
+
+   
+    
+}
